@@ -24,7 +24,7 @@ changelog= 0.2 - pdf display
 
 # Tags are comma separated with spaces allowed !
 
-tags=python
+tags=python, POI, POILookup, poilookup, poi
 
 homepage=http://homepage
 category=Vector
