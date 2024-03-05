@@ -6,11 +6,12 @@
             <version>0.2</version>
             <qgis_minimum_version>3.34</qgis_minimum_version>
             <homepage>http://your-plugin-homepage.com</homepage>
-            <file_name>FS_POILookup.zip</file_name>
-            <icon>https://github.com/Pasaltran/POI/blob/main/icon.png</icon>
+            <file_name>https://raw.githubusercontent.com/Pasaltran/POI/main/FS_POILookup.zip</file_name>
+            <icon>https://raw.githubusercontent.com/Pasaltran/POI/main/icon.png</icon>
             <author>Scott Buchanan</author>
             <email>scott.buchanan@fibersense.com</email>
         </pyqgis_plugin>
         <!-- More plugins can be listed in a similar way -->
     </plugins>
 </qgis>
+https://raw.githubusercontent.com/Pasaltran/POI/main/plugins.xml
