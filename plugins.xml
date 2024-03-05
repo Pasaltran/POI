@@ -6,10 +6,15 @@
             <version>0.2</version>
             <qgis_minimum_version>3.34</qgis_minimum_version>
             <homepage>https://raw.githubusercontent.com/Pasaltran/POI/main/README.html</homepage>
-            <file_name>https://raw.githubusercontent.com/Pasaltran/POI/main/poi_lookup_module.zip</file_name>
+            <file_name>poi_lookup_module.zip</file_name>
+            <download_url>https://raw.githubusercontent.com/Pasaltran/POI/main/poi_lookup_module.zip</download_url>
             <icon>https://raw.githubusercontent.com/Pasaltran/POI/main/icon.png</icon>
             <author>Scott Buchanan</author>
             <email>scott.buchanan@fibersense.com</email>
+            <experimental>True</experimental>
+            <deprecated>False</deprecated>
+            <repository>https://raw.githubusercontent.com/Pasaltran/POI/main</repository>
+            <tags>poi,poilookup</tags>
         </pyqgis_plugin>
         <!-- More plugins can be listed in a similar way -->
     </plugins>
