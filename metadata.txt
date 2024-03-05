@@ -1,0 +1,48 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=POI Lookup
+qgisMinimumVersion=3.0
+description=Assetes based on POI Location
+version=0.2
+author=Scott Buchanan / Fibersense
+email=scott.buchanan@fibersense.com
+
+about=POI Lookup This algorithm takes a XY Point and generates a map of features around the point. Input LAT, LON Coordinate: LAT and LON Coordinate of the point. The LAT and LON must be deliminated by either a space or a comma Input Map Scale: Scale factor to zoom into the entered point. 50 - 100 is usually a good starting place. Larger number zoom out. The lowest scale is 10. Input Append Map Scale: The will append the scale factor to the end of the output filename. Output PDF File: Path to the output PDF file.
+
+tracker=http://bugs
+repository=http://repo
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+changelog= 0.2 - pdf display
+
+# Tags are comma separated with spaces allowed !
+
+tags=python
+
+homepage=http://homepage
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=
+
+# If the plugin can run on QGIS Server.
+server=False
+
