@@ -6,7 +6,7 @@
             <version>0.2</version>
             <qgis_minimum_version>3.34</qgis_minimum_version>
             <homepage>https://raw.githubusercontent.com/Pasaltran/POI/main/README.html</homepage>
-            <file_name>https://raw.githubusercontent.com/Pasaltran/POI/main/FS_POILookup.zip</file_name>
+            <file_name>https://raw.githubusercontent.com/Pasaltran/POI/main/poi_lookup_module.zip</file_name>
             <icon>https://raw.githubusercontent.com/Pasaltran/POI/main/icon.png</icon>
             <author>Scott Buchanan</author>
             <email>scott.buchanan@fibersense.com</email>
